@@ -1,0 +1,12 @@
+*~
+*#
+.#*
+*.pyc
+__pycache__/
+.python-version
+*.xml
+grants.db
+grants.backup
+distances.db
+myprojectenv/
+.ipynb_checkpoints
